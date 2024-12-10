@@ -1,3 +1,4 @@
+# 🌟 Hi there! I'm **Vamshi Yeddula**
 - 👋 Hi, I’m @yeddulavamshi
 - 🎯 Aspiring Full-Stack Developer | Passionate about coding and technology
 - 🚀 Exploring Java, React, and APIs to build scalable applications
