@@ -9,3 +9,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started programming with Core Java and love creating applications that solve real-world problems
 - 💬 **Let’s connect and create something amazing together!**
+
+## 🌐 Connect with Me:
+
+[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/www.linkedin.com/in/vamshiyeddula/)    
+[![Instagram](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg)](https://www.instagram.com/y.vamshi_krishna/)  
+[![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://github.com/vamshiyeddula)  
