@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @yeddulavamshi
-- 👀 I’m interested in full-stack development, APIs, and exploring new technologies
+- 🎯 Aspiring Full-Stack Developer | Passionate about coding and technology
+- 🚀 Exploring Java, React, and APIs to build scalable applications
+- 💻 Skilled in HTML, CSS, JavaScript, Bootstrap, Java, Python, and SQL
 - 🌱 I’m currently learning Java for backend development and improving my skills in React and Bootstrap
 - 💞️ I’m looking to collaborate on full-stack projects and innovative app ideas
+- 📈 On a mission to turn ideas into impactful solutions
 - 📫 How to reach me: [vamshikrishnayeddula@gmail.com/www.linkedin.com/in/vamshiyeddula]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started programming with Core Java and love creating applications that solve real-world problems
