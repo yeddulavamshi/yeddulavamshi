@@ -15,6 +15,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshiyeddula/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/y.vamshi_krishna/)  
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/yeddulavamshi)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/Vamshi_Yeddula/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/vamshikrishnaye3)
 
 ## 🛠 Languages and Tools:
 
