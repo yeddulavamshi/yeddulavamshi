@@ -7,8 +7,8 @@ I’m currently building projects and mastering Full Stack Development!
 - I’m currently working on **Java Full Stack Projects**
 - I’m currently building applications using **Spring Boot, React & Advanced Java**
 - I’m looking to collaborate on **Frontend, Backend & Full Stack Development**
+- Eager to learn new tech and framework to improve existing technology.
 - How to reach me: **vamshikrishnayeddula@gmail.com**
-- Fun fact: **My code runs perfectly... on the second try! 😴🤖**
 
 ---
 
